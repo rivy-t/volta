@@ -1,0 +1,1 @@
+initSidebarItems({"constant":[["UNSAFE_GLOBAL",""]],"enum":[["CommandArg",""],["GlobalCommand",""]],"fn":[["is_flag",""],["is_positional",""]],"struct":[["InstallArgs","The arguments passed to a global install command"],["UninstallArgs","The list of tools passed to an uninstall command"]]});
